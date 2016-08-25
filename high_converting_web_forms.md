@@ -30,6 +30,10 @@
 + use calendar and you can style it
 + use **autofill**
 + use **autofocus** just like google did
++ don't forget to use require attribute
++ Numeric validation with min, max and step, and range input and getting value from value
++ use pattern attribute to enable regex
++ use custom validation API provided by H5
 
 
 ### Form references
@@ -38,3 +42,7 @@
 + [How to style your form](https://www.tjvantoll.com/2013/04/15/list-of-pseudo-elements-to-style-form-controls/#input_date)
 + [Checkout faster with autofill attribute](https://developers.google.com/web/updates/2015/06/checkout-faster-with-autofill?hl=en)
 + [Using autofocus attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input#attr-autofocus)
++ [Use custom validation API](https://developer.mozilla.org/en-US/docs/Web/API/HTMLSelectElement/setCustomValidity)
+
+
+## Fast forms
