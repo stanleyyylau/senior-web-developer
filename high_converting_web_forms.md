@@ -9,6 +9,7 @@
 + learn the various input types
 
 
+### References
 + [how to choose the best input types](https://developers.google.com/web/fundamentals/design-and-ui/input/forms/choose-the-best-input-type?hl=en#html5-input-types)
 + [web forms the right way slides](http://www.slideshare.net/greenido/web-forms-the-right-way)
 + [all the input attribute types](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input#attr-type)
@@ -32,8 +33,8 @@
 
 
 ### Form references
-[The label element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label)
-[The placeholder attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input#attr-placeholder)
-[How to style your form](https://www.tjvantoll.com/2013/04/15/list-of-pseudo-elements-to-style-form-controls/#input_date)
-[Checkout faster with autofill attribute](https://developers.google.com/web/updates/2015/06/checkout-faster-with-autofill?hl=en)
-[Using autofocus attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input#attr-autofocus)
++ [The label element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label)
++ [The placeholder attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input#attr-placeholder)
++ [How to style your form](https://www.tjvantoll.com/2013/04/15/list-of-pseudo-elements-to-style-form-controls/#input_date)
++ [Checkout faster with autofill attribute](https://developers.google.com/web/updates/2015/06/checkout-faster-with-autofill?hl=en)
++ [Using autofocus attribute](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input#attr-autofocus)
