@@ -46,3 +46,21 @@
 
 
 ## Fast forms
++ use the geolocation service on your phone
++ polimerjs and creditcard.js
+
+## Touch support
++ touch event is not just click event on touch screen
++ account for touch pseudo states
++ use user-select none to disable copying and pasting function
++ mobile browser behave differently to active focus and hover pseudo status
++ requestanimationframe
++ localstorage or firebase for datastorage
+
+
+
+### References
+[Using geolocation API on your phone](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation/Using_geolocation)
+[active state on IOS](https://developers.google.com/web/fundamentals/design-and-ui/input/touch/active-states?hl=en#enabling-active-state-support-on-ios)
+[Use event listener](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
+[touch events](https://developer.mozilla.org/en-US/docs/Web/API/Touch_events)
